@@ -2,4 +2,4 @@
 *.box
 *.iso
 .vagrant/
-cloudera-*-.bin
+**/cloudera-*.bin
