@@ -3,3 +3,4 @@
 *.iso
 .vagrant/
 **/cloudera-*.bin
+*license.txt
